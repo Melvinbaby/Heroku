@@ -15,7 +15,7 @@ geojson==2.5.0
 google-auth==1.15.0
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
-grpcio==1.29.0
+grpcio==1.38.0
 
 idna==2.9
 importlib-metadata==1.6.0
@@ -42,7 +42,7 @@ nbformat==5.0.6
 notebook==6.0.3
 numpy==1.20.3
 
-opencv-python==3.4.10.37
+opencv-python==4.5.2.52
 opt-einsum==3.2.1
 packaging==20.4
 pandas==0.25.1
